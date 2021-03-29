@@ -2,7 +2,7 @@
 
 ## サービス概要
 
-![Web アルビレックス新潟 トップ](https://i.gyazo.com/33338cc4841856b1e2b6faca8e4d7096.png)
+![Web アルビレックス新潟 トップ](https://i.gyazo.com/bfd3b4aabc63168538fa356d98b168d2.png)
 
 スポーツ好きほど熱狂的なファンはいません。私は自ら積極的に学んだ知識を使って、僕はその力を地方の盛り上げるために使いたいと思い、製作しました。
 
@@ -60,14 +60,6 @@ https://web-albirex.herokuapp.com/
 
 ***
 
-# サイトマップ
-![Web アルビレックス新潟 サイトマップ](https://i.gyazo.com/a7171d1378f57f0da9730798d73df744.png)
-***
-
-# ER図
-![Web アルビレックス新潟 ER図](https://i.gyazo.com/e56bf80a5b864b25922db55d96f5d9c6.png)
-***
-
 # 実装した各種機能
 
 『記事関連』
@@ -86,33 +78,20 @@ https://web-albirex.herokuapp.com/
 - DBテーフルのリレーション機能
 ***
 
-## トップページ（ログイン前）
-![Web アルビレックス新潟 トップページ（ログイン前）](https://i.gyazo.com/c13b0e701cb2b78b1bb93f53026eae59.jpg)
+## トップページ1
+![puppies-and-kittens トップページ1](https://i.gyazo.com/bfd3b4aabc63168538fa356d98b168d2.png)
 
-## トップページ（ログイン後）
-![Web アルビレックス新潟 トップページ（ログイン後）](https://i.gyazo.com/54cdebe369d29841ed3e68a8982fec0d.png)
+## トップページ2
+![puppies-and-kittens トップページ2](https://i.gyazo.com/17114dc75c1f93075723288130b0d36a.png)
 
-## ユーザー登録ページ
-![Web アルビレックス新潟 ユーザー登録ページ](https://i.gyazo.com/b6ff55c14a9fcb6e4183f13b5720e5d0.png)
+## トップページ3
+![puppies-and-kittens トップページ3](https://i.gyazo.com/850408841d336d05146e0c7fa0d590c2.png)
 
-## ログインページ
-![Web アルビレックス新潟 ログインページ](https://i.gyazo.com/c04f16194b0ce83a348964968909f729.png)
+## トップページ4
+![puppies-and-kittens トップページ4](https://i.gyazo.com/73e33d151facb7c2de85cf8137323e7b.png)
 
-## 投稿一覧ページ
-![Web アルビレックス新潟 投稿一覧ページ](https://i.gyazo.com/ba9a21d2b6c80ebca27471c814174b29.png)
-
-## フォロー一覧ページ
-![Web アルビレックス新潟 フォロー一覧ページ](https://i.gyazo.com/71e5e8004b6f633bd6e0367a8ef545c9.png)
-
-## フォロワー一覧ページ
-![Web アルビレックス新潟 フォロワー一覧ページ](https://i.gyazo.com/824f8a823e279a6561af042bb726a51d.png)
-
-## お気に入り一覧ページ
-![Web アルビレックス新潟 お気に入り一覧ページ](https://i.gyazo.com/91e4d5e0ab0ff853fe60d6265d8a9873.png)
-
-## ユーザー詳細ページ
-![Web アルビレックス新潟 ユーザー詳細ページ](https://i.gyazo.com/ba9a21d2b6c80ebca27471c814174b29.png)
-
+## トップページ5
+![puppies-and-kittens トップページ5](https://i.gyazo.com/17942b675ae9f92f3b898cd5b4685655.png)
 
 # 作成者の自己紹介
 
