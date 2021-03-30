@@ -61,6 +61,13 @@ https://puppies-and-kittens.herokuapp.com/
 
 ***
 
+# 実装した各種機能
+
+『記事関連』
+- 詳細表示機能
+
+***
+
 ## トップページ1
 ![puppies-and-kittens トップページ1](https://i.gyazo.com/1683ee71fd1a865ff3c283a60977e9b9.jpg)
 
