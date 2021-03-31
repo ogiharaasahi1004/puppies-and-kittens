@@ -68,7 +68,7 @@ https://puppies-and-kittens.herokuapp.com/
 
 ***
 
-## トップページ1(アニメーション付き
+## トップページ1(アニメーション付き)
 ![puppies-and-kittens トップページ1](https://i.gyazo.com/1683ee71fd1a865ff3c283a60977e9b9.jpg)
 
 ## トップページ2
