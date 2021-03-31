@@ -51,6 +51,10 @@
 
 　
 ## 技術内容
+- HTML/CSS
+- Javascript
+- Flickr-API
+- Vue.js
 - バージョン管理:Git
 - インフラ:Heroku
 
