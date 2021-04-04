@@ -1,10 +1,6 @@
 // Flickr API key
 const API_KEY = '53d5bef78a6de4899137254d64610b01';
 
-/**
- * ※参考：コードのひな形
- * ここまで学習した内容を基に、Vueのコードを書くときの「ひな形」を用意しました。課題に取り組む際の参考にしてください。
- */
   const getRequestURL = (searchText) => {
   const parameters = $.param({
     method: 'flickr.photos.search',
