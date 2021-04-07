@@ -61,7 +61,7 @@
 ***
 
 ## URL
-https://puppies-and-kittens.herokuapp.com/
+https://puppies-and-kittens-site.herokuapp.com/
 
 ***
 
